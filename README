@@ -1,0 +1,3 @@
+A dnsmasq mirror repository of the original one [http://thekelleys.org.uk/git/dnsmasq.git](http://thekelleys.org.uk/git/dnsmasq.git)
+
+All tags that are missing the *test* string are created as a release.
